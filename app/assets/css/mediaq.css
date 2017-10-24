@@ -151,7 +151,26 @@
 
 /* Portrait and Landscape */
 
-@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {}
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+  h1 {
+    font-size: 22px;
+  }
+  h2.text-center {
+    font-size: 28px;
+  }
+  hr.star-primary {
+    font-size: 10px;
+  }
+  hr.star-light {
+    font-size: 10px;
+  }
+  p {
+    font-size: 16px;
+  }
+  p.text-justify {
+    font-size: 16px;
+  }
+}
 
 
 /* Portrait */
