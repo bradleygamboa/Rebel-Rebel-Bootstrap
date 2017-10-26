@@ -1,3 +1,16 @@
+/* Background */
+
+header.masthead {
+  background-image: url("../img/background.png");
+  background-size: cover;
+}
+
+section#about.success {
+  background-image: url("../img/background.png");
+  background-size: cover;
+}
+
+
 /* ----------- iPhone 4 and 4S ----------- */
 
 
